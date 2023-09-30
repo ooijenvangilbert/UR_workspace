@@ -4,7 +4,7 @@ start installation of Ros2 Humble :
 https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html
 
 install colcon : 
-sudo apt install python3-colcon-common-extensions
+sudo apt install python3-colcon-common-extensions python3-vcstool
 
 install ros micro :
 https://technologiehub.at/project-posts/micro-ros-on-esp32-tutorial/
